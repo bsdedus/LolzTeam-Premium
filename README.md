@@ -927,7 +927,7 @@ mkdir -p ~/bots/lzt_market_bot
 cd ~/bots/lzt_market_bot
 
 # Download project files (if via git)
-# git clone https://your-repo-url.git .
+# git clone https://github.com/bsdedus/LolzTeam-Premium/ .
 
 # Or upload manually via SFTP/SCP
 ```
