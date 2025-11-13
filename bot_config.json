@@ -1,0 +1,55 @@
+{
+    "product_settings": {
+        "currency": "rub",
+        "item_origin": "personal",
+        "category_id": 30,
+        "allow_ask_discount": false,
+        "description": "с розыгрыша  ===== DESCRIPTION ===== After purchase, you will receive a gift link to activate your premium subscription. The subscription was won in a giveaway in one of the Telegram channels. Market automatically checks valid before purchase. The link is 100% valid if you were able to buy it. If you have any difficulties, write to me in private messages on market.  ===== ОПИСАНИЕ ===== После покупки вы получите подарочную ссылку для активации премиум подписки. Подписка была выиграна в розыгрыше в одном из Telegram каналов. Товар автоматически проверяется маркетом на валидность при покупке. Ссылка 100% валидна, если вы смогли её купить. В случае затруднений пишите мне в личные сообщения на маркете.  ЕСЛИ У ВАС ТАКОЕ ОКНО   [url=https://postimg.cc/vDkqbsbC][img]https://i.postimg.cc/wTTS5qPx/image.png[/img][/url]  ИСПОЛЬЗУЙТЕ ЭТОГО БОТА  https://t.me/gifts_activate_echo_bot",
+        "extra": {
+            "service": "telegram"
+        }
+    },
+    "title_mapping": {
+        "90": {
+            "title": {
+                "ru": "Постоянникам СКИДКИ | Telegram Premium 3 месяца | Ссылкой | Оставьте отзыв",
+                "en": "DISCOUNTS for regulars | Telegram Premium 3 months | Link | Leave a review"
+            },
+            "description": "с розыгрыша  ===== DESCRIPTION ===== After purchase, you will receive a gift link to activate your premium subscription. The subscription was won in a giveaway in one of the Telegram channels. Market automatically checks valid before purchase. The link is 100% valid if you were able to buy it. If you have any difficulties, write to me in private messages on market.  ===== ОПИСАНИЕ ===== После покупки вы получите подарочную ссылку для активации премиум подписки. Подписка была выиграна в розыгрыше в одном из Telegram каналов. Товар автоматически проверяется маркетом на валидность при покупке. Ссылка 100% валидна, если вы смогли её купить. В случае затруднений пишите мне в личные сообщения на маркете.  ЕСЛИ У ВАС ТАКОЕ ОКНО   [url=https://postimg.cc/vDkqbsbC][img]https://i.postimg.cc/wTTS5qPx/image.png[/img][/url]  ИСПОЛЬЗУЙТЕ ЭТОГО БОТА  https://t.me/gifts_activate_echo_bot"
+        },
+        "180": {
+            "title": {
+                "ru": "Постоянникам СКИДКИ | Telegram Premium 6 месяцев | Ссылкой | Оставьте отзыв",
+                "en": "DISCOUNTS for regulars | Telegram Premium 6 months | Link | Leave a review"
+            },
+            "description": "с розыгрыша  ===== DESCRIPTION ===== After purchase, you will receive a gift link to activate your premium subscription. The subscription was won in a giveaway in one of the Telegram channels. Market automatically checks valid before purchase. The link is 100% valid if you were able to buy it. If you have any difficulties, write to me in private messages on market.  ===== ОПИСАНИЕ ===== После покупки вы получите подарочную ссылку для активации премиум подписки. Подписка была выиграна в розыгрыше в одном из Telegram каналов. Товар автоматически проверяется маркетом на валидность при покупке. Ссылка 100% валидна, если вы смогли её купить. В случае затруднений пишите мне в личные сообщения на маркете.  ЕСЛИ У ВАС ТАКОЕ ОКНО   [url=https://postimg.cc/vDkqbsbC][img]https://i.postimg.cc/wTTS5qPx/image.png[/img][/url]  ИСПОЛЬЗУЙТЕ ЭТОГО БОТА  https://t.me/gifts_activate_echo_bot"
+        },
+        "360": {
+            "title": {
+                "ru": "Постоянникам СКИДКИ | Telegram Premium 12 месяцев | Ссылкой | Оставьте отзыв",
+                "en": "DISCOUNTS for regulars | Telegram Premium 12 months | Link | Leave a review"
+            },
+            "description": "с розыгрыша  ===== DESCRIPTION ===== After purchase, you will receive a gift link to activate your premium subscription. The subscription was won in a giveaway in one of the Telegram channels. Market automatically checks valid before purchase. The link is 100% valid if you were able to buy it. If you have any difficulties, write to me in private messages on market.  ===== ОПИСАНИЕ ===== После покупки вы получите подарочную ссылку для активации премиум подписки. Подписка была выиграна в розыгрыше в одном из Telegram каналов. Товар автоматически проверяется маркетом на валидность при покупке. Ссылка 100% валидна, если вы смогли её купить. В случае затруднений пишите мне в личные сообщения на маркете.  ЕСЛИ У ВАС ТАКОЕ ОКНО   [url=https://postimg.cc/vDkqbsbC][img]https://i.postimg.cc/wTTS5qPx/image.png[/img][/url]  ИСПОЛЬЗУЙТЕ ЭТОГО БОТА  https://t.me/gifts_activate_echo_bot"
+        }
+    },
+    "available_currencies": {
+        "rub": "Russian Ruble (₽)",
+        "uah": "Ukrainian Hryvnia (₴)",
+        "kzt": "Kazakhstani Tenge (₸)",
+        "byn": "Belarusian Ruble (Br)",
+        "usd": "US Dollar ($)",
+        "eur": "Euro (€)",
+        "gbp": "British Pound (£)",
+        "cny": "Chinese Yuan (¥)",
+        "try": "Turkish Lira (₺)",
+        "jpy": "Japanese Yen (¥)"
+    },
+    "available_origins": {
+        "personal": "Личный",
+        "brute": "Брут",
+        "phishing": "Фишинг",
+        "stealer": "Стиллер",
+        "resale": "Перепродажа",
+        "autoreg": "Авторег"
+    }
+}
