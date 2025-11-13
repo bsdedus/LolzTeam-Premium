@@ -242,7 +242,7 @@ mkdir -p ~/bots
 cd ~/bots
 
 # Клонируем репозиторий
-git clone https://github.com/bsdedus/LolzTeam-Premium/
+git clone https://github.com/bsdedus/lzt-market-bot
 cd lzt-market-bot
 ```
 
@@ -927,7 +927,7 @@ mkdir -p ~/bots/lzt_market_bot
 cd ~/bots/lzt_market_bot
 
 # Download project files (if via git)
-# git clone https://github.com/bsdedus/LolzTeam-Premium/ .
+# git clone https://github.com/bsdedus/lzt-market-bot .
 
 # Or upload manually via SFTP/SCP
 ```
