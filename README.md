@@ -242,7 +242,7 @@ mkdir -p ~/bots
 cd ~/bots
 
 # Клонируем репозиторий
-git clone https://github.com/YOUR_USERNAME/lzt-market-bot.git
+git clone https://github.com/bsdedus/LolzTeam-Premium/
 cd lzt-market-bot
 ```
 
